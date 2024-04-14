@@ -2,6 +2,8 @@
 
 # Tiny Tapeout Wokwi Project Template
 
+This displays "EFAB" on the 7-segment display of the TT demo board.
+
 - [Read the documentation for project](docs/info.md)
 
 ## What is Tiny Tapeout?
